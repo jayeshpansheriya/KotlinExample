@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinExample</string>
+    <string-array name="standard">
+        <item>Standard 1</item>
+        <item>Standard 2</item>
+        <item>Standard 3</item>
+        <item>Standard 4</item>
+    </string-array>
+</resources>
