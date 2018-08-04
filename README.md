@@ -1,5 +1,4 @@
 # KotlinExample
-SQLITE, RECYCLEVIEW, LISTVIEW using KOTLIN
 
 ###### Kotlin was designed by programmers from JetBrains (the guys behind integrated development environments) to add some modern features to Java that come in handy in mobile development. Kotlin is an open source, statically typed language based on Java Virtual Machine (JVM), but you can also compile it to JavaScript or Native for building code that can run on iOS. All it takes is installing the Kotlin Plugin and letting it configure your project.
 
